@@ -18,7 +18,21 @@ Download earlier versions of Marlin on the [Releases page](https://github.com/Ma
 
 ## Branch Creality-Ender-3-V2 235x235x250 
 
-Copy **.bin** file from Ender-3-V2-235x235x250 folder to your SD card.
+### Flashing Firmware
+
+The bootloader which handles flashing new firmware on this board remembers the last filename you used.
+
+Therefore, to flash the compiled firmware binary onto the board you must copy the **\*.bin** file from **Ender-3-V2-235x235x250 folder**. On to the **SD card**, different from the name of the previous firmware file, or you will be greeted with a blank screen on the next boot.
+
+### Updating the Display
+
+To update the graphics and icons on the display:
+
+- Copy the **DWIN_SET** folder to an **SD card** and insert the card into the slot on the back of the display unit.
+- Power on the machine and wait for the screen to change from blue to orange.
+- Power off the machine.
+- Remove the SD card from the back of the display.
+- Power on to confirm a successful flash.
 
 ### Supported Platforms
 
