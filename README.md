@@ -16,9 +16,9 @@ Marlin 2.0 takes this popular RepRap firmware to the next level by adding suppor
 
 Download earlier versions of Marlin on the [Releases page](https://github.com/MarlinFirmware/Marlin/releases).
 
-## Goto [Branch Creality-Ender-3-V2 220x220x250](https://github.com/AMMTECH/Marlin-Creality-Ender-3-V2/tree/BED_SIZE-220x220x250)
+## Goto [Branch Creality-Ender-3-V2 Bedsize 220x220x250](https://github.com/AMMTECH/Marlin-Creality-Ender-3-V2/tree/BED_SIZE-220x220x250) 
 
-## Goto [Branch Creality-Ender-3-V2 235x235x250](https://github.com/AMMTECH/Marlin-Creality-Ender-3-V2/tree/BED_SIZE-235x235x250)
+## Goto [Branch Creality-Ender-3-V2 Bedsize 235x235x250](https://github.com/AMMTECH/Marlin-Creality-Ender-3-V2/tree/BED_SIZE-235x235x250)
 
 
 ### Supported Platforms
