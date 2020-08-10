@@ -18,7 +18,7 @@ Download earlier versions of Marlin on the [Releases page](https://github.com/Ma
 
 ## Branch Creality-Ender-3-V2 220x220x250 
 
-Copy **.bin** file from Ender-3-V2-220x220x250 bin folder to your SD card.
+Copy **.bin** file from Ender-3-V2-220x220x250 folder to your SD card.
 
 
 ### Supported Platforms
